@@ -1,0 +1,15 @@
+{
+  "name": "eslint-config-lfgaming",
+  "version": "1.0.0",
+  "description": "EsLint configuration for LFGaming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint-config-hapi": "^10.0.0",
+    "eslint-plugin-hapi": "^4.0.0"
+  }
+}
