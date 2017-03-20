@@ -1,14 +1,11 @@
 'use strict';
 
 module.exports = {
-    env: {
-        mocha: true,
-        node: true
-    },
     extends: [
-        'hapi'
+        'eslint-config-lfgaming/rules/node',
+        'eslint-config-lfgaming/rules/es6'
     ],
     rules: {
-        'no-undef': ['error']
+
     }
 };
