@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-lfgaming",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "EsLint configuration for LFGaming",
   "main": "index.js",
   "scripts": {
