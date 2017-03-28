@@ -1,6 +1,6 @@
-# eslint-config-lfgaming
+# eslint-config-liflandgaming
 
-:shipit: LFGaming eslint configuration
+:shipit: liflandgaming eslint configuration
 
 ## Usage
 
@@ -11,14 +11,14 @@ The default ESLint configuration lints for ES6.
 Install the default configuration package and `eslint` dependency:
 
 ```
-npm install --save-dev eslint-config-lfgaming eslint
+npm install --save-dev eslint-config-liflandgaming eslint
 ```
 
 Add the config to a `.eslintrc.json` file or the `eslintConfig` object in `package.json` using the ESLint `extends` attribute:
 
 ```json
 {
-  "extends": "lfgaming"
+  "extends": "liflandgaming"
 }
 ```
 
@@ -30,6 +30,6 @@ Add the config to a `.eslintrc.json` file or the `eslintConfig` object in `packa
 
 ```json
 {
-  "extends": "lfgaming/test"
+  "extends": "liflandgaming/test"
 }
 ```

@@ -1,7 +1,7 @@
 {
-  "name": "eslint-config-lfgaming",
+  "name": "eslint-config-liflandgaming",
   "version": "1.0.2",
-  "description": "EsLint configuration for LFGaming",
+  "description": "EsLint configuration for liflandgaming",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
