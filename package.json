@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-liflandgaming",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "EsLint configuration for liflandgaming",
   "main": "index.js",
   "scripts": {
