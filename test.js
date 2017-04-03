@@ -2,7 +2,7 @@
 
 module.exports = {
   extends: [
-    'eslint-config-lfgaming/index',
-    'eslint-config-lfgaming/rules/test'
+    'eslint-config-liflandgaming/index',
+    'eslint-config-liflandgaming/rules/test'
   ]
 };
