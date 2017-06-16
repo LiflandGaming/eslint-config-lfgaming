@@ -9,6 +9,6 @@ module.exports = {
   ],
   rules: {
     'no-undef': ['error'],
-    'hapi/hapi-capitalize-modules': false
+    'hapi/hapi-capitalize-modules': 0
   }
 };
