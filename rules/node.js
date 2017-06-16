@@ -8,6 +8,7 @@ module.exports = {
     'hapi'
   ],
   rules: {
-    'no-undef': ['error']
+    'no-undef': ['error'],
+    'hapi-capitalize-modules': false
   }
 };
