@@ -11,5 +11,8 @@
   "dependencies": {
     "eslint-config-hapi": "^10.0.0",
     "eslint-plugin-hapi": "^4.0.0"
+  },
+  "publishConfig": {
+    "registry": "https://nexus.scalebet.io/repository/npm-hosted/"
   }
 }
