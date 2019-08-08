@@ -4,6 +4,10 @@ module.exports = {
     'env': {
         'es6': true,
     },
+    parserOptions: {
+        "ecmaVersion": 8,
+        "sourceType": "module",
+    },
     rules: {
     // disallow modifying variables that are declared using const
         'no-const-assign': 2,

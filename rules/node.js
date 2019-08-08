@@ -7,6 +7,11 @@ module.exports = {
     extends: [
         'hapi',
     ],
+
+    parserOptions: {
+        "ecmaVersion": 8,
+        "sourceType": "module",
+    },
     rules: {
         'no-undef': ['error'],
         'hapi/hapi-capitalize-modules': 0,
